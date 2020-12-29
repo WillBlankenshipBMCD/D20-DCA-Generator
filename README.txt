@@ -1,1 +1,1 @@
-https://mybinder.org/v2/gh/WillBlankenshipBMCD/D20-DCA-Generator/Commit 1
+https://mybinder.org/v2/gh/WillBlankenshipBMCD/D20-DCA-Generator
